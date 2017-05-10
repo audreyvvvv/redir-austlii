@@ -1,1 +1,0 @@
-javascript:(function()%7B%7Bif(window.location.href.indexOf('cgi-bin%2Fsinodisp%2F') > -1) %7Bwindow.location %3D window.location.href.replace('cgi-bin%2Fsinodisp%2F'%2C '')%3B%7Delse%7B(window.location.search %2B%3D '%3Fstem%3D0')%3B%7D%7D%7D)()
